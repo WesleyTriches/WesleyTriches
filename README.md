@@ -134,3 +134,10 @@ Me chamo Wesley Triches, sou estudante de Ciência da Computação pela Universi
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleytriches&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=wesleytriches&theme=tokyo-night&hide_border=true&area=true"
+    alt="Gráfico de atividade no GitHub"
+  />
+</p>
