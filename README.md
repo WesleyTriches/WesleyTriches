@@ -1,12 +1,39 @@
 # 👨🏻‍💻 Wesley Triches
 
-**`Desenvolvedor de Software`**
+**Desenvolvedor de Software**
 
-Me chamo Wesley Triches, sou estudante de Ciência da Computação pela Universidade de Passo Fundo (UPF), com interesse em Desenvolvimento de Software, Cyber Security e ML. Estou sempre tentando aprender coisas novas, aprimorando meus conhecimentos em engenharia de software, segurança de aplicações e boas práticas de desenvolvimento.
+Estudante de Ciência da Computação, interessado em desenvolvimento de software, Cybersecurity, Machine Learning e boas práticas de engenharia.
 
 ---
 
-### 🤖 Tech Stack
+### 🧠 About Me
+
+```text
+wesley/
+├── Profile/
+│   ├── Role:       Computer Science Student
+│   ├── University: Universidade de Passo Fundo (UPF)
+│   ├── Focus:      Full-Stack Development
+│   └── Stack:      Java / TypeScript / Python
+│
+├── Interests/
+│   ├── Software Engineering
+│   ├── Cybersecurity
+│   ├── Artificial Intelligence
+│   ├── Machine Learning
+│   └── Math
+│
+└── Currently Building/
+    ├── REST APIs
+    ├── Web Applications
+    ├── Mobile Applications
+    └── Software Architecture
+```
+
+---
+
+### 💻 Tech Stack
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,ts,js,python,cpp,postgres,docker,git,linux&theme=dark" />
