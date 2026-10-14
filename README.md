@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://br.linkedin.com/in/wesleytriches-5958a61a9/">
+  <a href="https://br.linkedin.com/in/wesleytriches">
     <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
 </p>
