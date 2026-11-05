@@ -1,14 +1,14 @@
 <h1 align="center">Hello, I'm Wesley Triches 👋</h1>
 
 <p align="center">
-  <em>Computer Science Student • Software Developer • Cyber Security Enthusiast</em>
+  <em>Computer Science Student • Software Developer</em>
 </p>
 
 ---
 
 <p align="center">
-  I'm a Computer Science student passionate about software development, cyber security and machine learning.  
-  I enjoy building projects, learning new technologies and understanding how software works from end to end.
+  I'm a Computer Science student and software developer with a strong interest in Data Engineering, Machine Learning and Software Engineering.
+  I enjoy building practical solutions, exploring new technologies, and understanding how systems work from end to end.
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 - 🎓 Computer Science student at Universidade de Passo Fundo (UPF)
 - 💻 Working with Software Development
-- 🔐 Interested in Cyber Security and Computer Networks
+- 🔐 Interested in Data Engineering and Machine Learning
 - 🚀 Always building projects and learning new technologies
 
 ---
